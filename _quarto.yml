@@ -4,18 +4,12 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  title: "Wei LIU"
+  site-url: https://weiliu.github.io
+  favicon: images/logo.png
+  repo-url: https://github.com/VIVI-lw/weiliu.github.io
   repo-actions: [edit, issue]
-  
-  page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
-    right: |
-      Made with [Quarto](https://quarto.org/)<br>
-    
+   
   navbar: 
     background: "#A9CCE3"
     search: true
@@ -24,16 +18,12 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
+      - text: "Blogs/notes"
         href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
       - text: "中文"
         href: Chinese.qmd
       - text: "CV"
-        href: CV.pdf
+        href: CV.md
 
 format:
   html:
