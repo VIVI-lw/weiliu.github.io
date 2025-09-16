@@ -16,8 +16,7 @@ about:
 ---
 
 ::: {#hero-heading}
-**Wei LIU** is a PhD student in Economics at the University of Nottingham Ningbo, China. Her research interests include international trade, automation, and industrial economics. 
-She obtained both her bachelor’s and master’s degrees from Jiangxi University of Finance and Economics.
+**Wei LIU** is a PhD student in Economics at the University of Nottingham Ningbo (UNNC), China. Her research interests include *International Trade, Automation, and Industrial Economics*. She obtained both her bachelor’s and master’s degrees from Jiangxi University of Finance and Economics (JUFE). Also, she is from [Jiujiang](https://en.wikipedia.org/wiki/Jiujiang) city, Jiangxi province, it is a city with beautiful views. There are some introduction of the local scenery, link from wikipedia: [Jiujiang](https://en.wikipedia.org/wiki/Jiujiang). There is a 5A scenic site, [Mount Lu](https://en.wikipedia.org/wiki/Mount_Lu).
 
 
 ## Background

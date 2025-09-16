@@ -7,7 +7,7 @@ editor:
 
 I am planning to post some blogs or notes in this section, not only about academic topics but also about travel experiences and other things that impressed me.
 
-# First year in UNNC
+## First year in UNNC
 
 ![UNNC campus 1](images/UNNC (1).jpg)
 
