@@ -7,10 +7,17 @@ editor:
 
 I am planning to post some blogs or notes in this section, not only about academic topics but also about travel experiences and other things that impressed me.
 
-## First year in UNNC
+## Activities
+- **In campus**
+ ![UNNC campus 1](images/UNNC (1).jpg)
+ ![UNNC campus 2](images/UNNC (2).jpg)
+ ![UNNC campus 3](images/UNNC (3).jpg)
 
-![UNNC campus 1](images/UNNC (1).jpg)
 
-![UNNC campus 2](images/UNNC (2).jpg)
+## Conferences
 
-![UNNC campus 3](images/UNNC (3).jpg)
+- **11th CEEF in Shenzhen**  
+  ![CEEF Conference](images/CEEF.jpg)
+
+- **2025 UNNC Doctoral Symposium**  
+  ![UNNC Symposium](images/UNNC.jpg)
